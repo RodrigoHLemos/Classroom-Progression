@@ -36,5 +36,3 @@ Este é um trabalho individual, mas qualquer sugestão ou feedback é bem-vindo!
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-
-Se precisar de mais alguma coisa ou ajustes específicos, é só avisar!
